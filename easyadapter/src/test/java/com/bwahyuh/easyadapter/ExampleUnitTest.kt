@@ -1,4 +1,4 @@
-package id.derysudrajat.easyadapter
+package com.bwahyuh.easyadapter
 
 import org.junit.Test
 
